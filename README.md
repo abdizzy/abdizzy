@@ -10,7 +10,7 @@ I'm Abdul, a self-taught developer working toward a career in AI: building it, i
 - 💪 **Comfortable with:** Luau, C
 - 📚 **Currently learning:** Python, JavaScript, Rust
 - 🎮 **Also into:** Roblox development and game servers
-- 🏀 **Off the keyboard:** lifting and basketball
+- 🏋️‍♂️ **Off the keyboard:** lifting and video games
 - 🎯 **Goal:** study computer science and work on AI
 
 ## Tech
