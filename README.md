@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="banner.svg" alt="Abdul" width="100%">
+  <img src="Abdul banner.svg" alt="Abdul" width="100%">
 </p>
